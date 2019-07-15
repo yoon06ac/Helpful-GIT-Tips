@@ -1,0 +1,8 @@
+Help Git Commands
+Upload to GitHub
+initials the local repo
+ensure the remote repo is created
+use git add FILENAME to add the desired files
+use git commit -m “COMMENTS HERE” to insert you comments about the change
+use git push —set-upstream GITREPRO HTTPS ADDRESS
+now use git push to push all of the files and commit comments
